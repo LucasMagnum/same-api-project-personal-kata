@@ -1,0 +1,3 @@
+[submodule "same-api-project-template"]
+	path = same-api-project-template
+	url = https://github.com/LucasMagnum/same-api-project-template
