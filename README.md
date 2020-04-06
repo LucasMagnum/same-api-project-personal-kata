@@ -8,7 +8,7 @@ Each project will be listed here and added as a submodule.
 
 ## Projects
 
-- [Template](same-api-project-template/README.md)
+- [Template](https://github.com/LucasMagnum/same-api-project-template)
 
 
 ## Roadmap
